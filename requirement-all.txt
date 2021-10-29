@@ -1,0 +1,10 @@
+pdfminer.six
+python-docx
+scikit-learn
+macropodus
+sklearn
+gensim
+pandas
+numpy
+jieba==0.39
+tqdm
