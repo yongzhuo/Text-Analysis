@@ -11,15 +11,15 @@ import os
 path_root = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))
 print(path_root)
 sys.path.append(path_root)
-from text_analysis.word_analysis.w00_transfer_file_to_txt import os_main as os_main_1
-from text_analysis.word_analysis.w01_find_newword_txt import os_main as os_main_2
-from text_analysis.word_analysis.w02_cut_word_to_txt import os_main as os_main_3
-from text_analysis.word_analysis.w03_transfer_to_doc import os_main as os_main_4
-from text_analysis.word_analysis.w04_tfidf_xlsx import os_main as os_main_5
-from text_analysis.word_analysis.w05_train_w2v import os_main as os_main_6
-from text_analysis.word_analysis.w06_cluster_w2v import os_main as os_main_7
-from text_analysis.word_analysis.w07_cluster_sen import os_main as os_main_8
-from text_analysis.word_analysis.w08_extract_highligt_doc import os_main as os_main_9
+from text_analysis.analysis_word.w00_transfer_file_to_txt import os_main as os_main_1
+from text_analysis.analysis_word.w01_find_newword_txt import os_main as os_main_2
+from text_analysis.analysis_word.w02_cut_word_to_txt import os_main as os_main_3
+from text_analysis.analysis_word.w03_transfer_to_doc import os_main as os_main_4
+from text_analysis.analysis_word.w04_tfidf_xlsx import os_main as os_main_5
+from text_analysis.analysis_word.w05_train_w2v import os_main as os_main_6
+from text_analysis.analysis_word.w06_cluster_w2v import os_main as os_main_7
+from text_analysis.analysis_word.w07_cluster_sen import os_main as os_main_8
+from text_analysis.analysis_word.w08_extract_highligt_doc import os_main as os_main_9
 from text_analysis.conf.path_log import logger
 
 

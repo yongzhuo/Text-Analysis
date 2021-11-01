@@ -2,9 +2,11 @@ pdfminer.six
 python-docx
 scikit-learn
 macropodus
+matplotlib
 sklearn
 gensim
 pandas
 numpy
 jieba==0.39
+pylab
 tqdm

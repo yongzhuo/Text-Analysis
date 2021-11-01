@@ -1,7 +1,7 @@
-# word-analysis 词语分析
+# analysis-word 词语分析
 
 # 介绍
-word_analysis可用于无监督分析多文件语料(HTML/PDF/DOCX/DOC/TXT/MD), 支持docx高亮抽取-读写、新词发现、中文分词、TFIDF、词向量、词语聚类、句子聚类等功能。 
+analysis_word可用于无监督分析多文件语料(HTML/PDF/DOCX/DOC/TXT/MD), 支持docx高亮抽取-读写、新词发现、中文分词、TFIDF、词向量、词语聚类、句子聚类等功能。 
 
 # 详情
 各个文件(夹)详情
